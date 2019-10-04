@@ -12,6 +12,6 @@ package hello.world.app;
 public class saludo {
      public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello World!");
+        System.out.println("Chao mundo");
 }
 }
